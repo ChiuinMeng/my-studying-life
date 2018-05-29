@@ -1,2 +1,11 @@
 虽然现在还不太会github，但迟早我会的！
 
+Oh，yes！
+在电脑桌面提交成功啦！
+
+GitHub Desktop应用中，
+Changes下会显示最近被修改的文件（比如在Atom编辑器中该项目被添加或者修改文件了）
+Changes下面有一个Commit to master按钮，点击了才能把修改提交到项目哦，之后同步一下就能在网页上看到修改啦。
+Histtory自然就是该项目的历史咯
+
+
