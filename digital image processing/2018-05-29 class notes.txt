@@ -1,0 +1,15 @@
+...
+decision boundary 决定边界
+...
+K-nearest neighbors algorithm
+Matching by correction
+相关性
+归一化
+通过匹配来找到风眼的位置
+matching shape number不讲啦，比较少用
+
+Object Recognition目标识别
+knn k最近邻
+最小距离分配器
+
+下次课带笔记本，充足电，下节课看视频。

@@ -1,0 +1,22 @@
+files->settings->install
+
+Markdown-preview是自带的。
+强大的插件库（好多啊 =_= ，选择适合自己的）
+Markdown-preview-enhanced
+如果你觉得 Markdown-preview-enhanced 的许多功能用不到，有些累赘，你可以借助以下这些插件，单独定制出一个属于你的编辑器。
+  Markdown-preview-plus 实时预览增强插件
+  Markdown-scroll-sync 同步滚动插件
+  Language-markdown Markdown 语法增强插件
+  Markdown-writer 更方便地管理图片、链接等
+  Markdown-table-editor 表格编辑插件
+  Markdown-themeable-pdf PDF导出插件
+  Markdown-img-paste 图片粘贴插件
+  pdf-view
+
+ctrl+shift+p进行预览
+ctrl+shift+m进行预览
+
+参考网址：
+  https://www.cnblogs.com/libin-1/p/6638165.html
+  https://zhuanlan.zhihu.com/p/27874533
+  https://zhuanlan.zhihu.com/p/32309940

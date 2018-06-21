@@ -1,0 +1,9 @@
+方法参数是泛型？
+public <T> void sort(T[] t){
+
+}
+方法返回值是泛型？
+public <T> T[] sort(T[] input){
+	return input;
+}
+类的成员变量是泛型？

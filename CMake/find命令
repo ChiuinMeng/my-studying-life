@@ -1,0 +1,3 @@
+我用过的命令：
+wen@ubuntu:~/Desktop/opencv$ find | grep opencv.hpp
+./include/opencv2/opencv.hpp

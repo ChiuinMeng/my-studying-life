@@ -1,0 +1,4 @@
+easy_install和pip都是用来下载安装Python一个公共资源库PyPI
+的相关资源包的，pip是easy_install的改进版，提供更好的提示信
+息，删除package等功能。老版本的python中只有easy_install，
+没有pip。

@@ -1,0 +1,31 @@
+使用事先定义好的模板生成一个蜘蛛。感觉这并没有什么用，你完全可以按照自己的想法去写一个蜘蛛程序，只要符合规则就好。
+Usage
+=====
+  scrapy crawlscrapy genspider [options] <name蜘蛛名> <domain域名>
+
+Generate new spider using pre-defined templates
+按事先定义好的蜘蛛模板生成一个蜘蛛程序
+
+Options
+=======
+--help, -h              show this help message and exit
+--list, -l              List available templates
+--edit, -e              Edit spider after creating it
+--dump=TEMPLATE, -d TEMPLATE
+                        Dump template to standard output
+--template=TEMPLATE, -t TEMPLATE
+                        Uses a custom template.
+--force                 If the spider already exists, overwrite it with the
+                        template
+
+Global Options
+--------------
+--logfile=FILE          log file. if omitted stderr will be used
+--loglevel=LEVEL, -L LEVEL
+                        log level (default: DEBUG)
+--nolog                 disable logging completely
+--profile=FILE          write python cProfile stats to FILE
+--pidfile=FILE          write process ID to FILE
+--set=NAME=VALUE, -s NAME=VALUE
+                        set/override setting (may be repeated)
+--pdb                   enable pdb on failure

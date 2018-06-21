@@ -1,0 +1,21 @@
+https://opencv.org
+
+OpenCV (Open Source Computer Vision Library)
+is released under a BSD license and hence it’s free for both academic and commercial use.
+It has C++, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android.
+OpenCV was designed for computational efficiency and with a strong focus on real-time applications.
+Written in optimized C/C++, the library can take advantage of multi-core processing.
+Enabled with OpenCL, it can take advantage of the hardware acceleration of the underlying heterogeneous compute platform.
+
+OpenCV 开源计算机视觉库经BSD授权后发行，因此学术和商业用途都是免费的。
+它拥有C++、Python和Java的接口，Windows、Linux、Mac OS、iOS和Android操作系统均支持。
+OpenCV为计算效率而设计，它专注于实时应用程序。
+用最佳的C/C++写成，OpenCV库能充分利用多核处理器。
+使用OpenCV，你能从底层异构计算平台的硬件加速中受益。
+
+Adopted all around the world,
+OpenCV has more than 47 thousand people of user community and estimated number of downloads exceeding 14 million.
+Usage ranges from interactive art, to mines inspection, stitching maps on the web or through advanced robotics.
+
+被全世界采用的它，有着47000用户和1.4亿的下载量。
+广泛应用于交互艺术、矿厂检查、网页地图拼接和先进机器人。
